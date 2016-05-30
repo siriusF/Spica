@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  SectionHeaderView.h
 //  宅舞
 //
-//  Created by apple on 16/3/9.
+//  Created by apple on 16/3/11.
 //  Copyright © 2016年 beizi. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SectionHeaderView : UICollectionView
 
 @end
-
